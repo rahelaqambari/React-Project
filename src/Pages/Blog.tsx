@@ -1,5 +1,9 @@
+import Dream from "@/Mycomponent/Dream";
+
 export default function Blog (){
     return(
-        <div>blog page</div>
+        <div>
+            <Dream />
+        </div>
     )
 }
